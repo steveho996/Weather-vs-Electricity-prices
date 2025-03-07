@@ -11,4 +11,4 @@ st.write("""This Data Analysis Report base on data file **fmi_weather_and_price.
 
 
 # Display an image from a local file
-st.image("/workspaces/Weather-vs-Electricity-prices/Electricity-Towers.jpeg", caption="Electricity Weather", use_container_width=True)
+st.image("Electricity-Towers.jpeg", caption="Electricity Weather", use_container_width=True)
